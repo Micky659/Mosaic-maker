@@ -1,10 +1,10 @@
 # Mosaic-maker
 
-This program can generate a image that when seen from a distance look like a different picture but from up close it's actually made up of a small photo arranged in a grid.
+This program can generate an image that when seen from a distance look like a different picture but from up close it's actually made up of a small photo arranged in a grid.
 
 
 ## Input
-The program takes two input images, first an block image that is used as an element in the matrix and the second a big image that is implemented over the matrix.
+The program takes two input images, first a block image that is used as an element in the matrix and the second a big image that is implemented over the matrix.
 It's recommended that input images should be small in size as it will be easier to build the mosaic in a correct proportion.
    
    Block image(32X32)
